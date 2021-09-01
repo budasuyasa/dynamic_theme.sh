@@ -14,7 +14,7 @@ chmod +x install.sh
 ## Uninstall
 
 ```
-chmod +x install.sh
+chmod +x uninstall.sh
 ./install.sh
 ```
 
