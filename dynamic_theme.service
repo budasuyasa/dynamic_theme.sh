@@ -1,0 +1,8 @@
+[Unit]
+Description=Change GTK theme based on current time
+
+[Service]
+ExecStart=/opt/dynamic_theme.sh
+
+[Install]
+WantedBy=multi-user.target
