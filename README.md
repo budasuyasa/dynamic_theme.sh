@@ -1,4 +1,4 @@
-# dynamic_theme.sh 🌗
+#  🌗 dynamic_theme.sh
 
 Simple script to change GTK theme automatically based on specified condition. Work for Gnome desktop environment.
 
